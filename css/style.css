@@ -1,0 +1,17 @@
+body{margin-top:50px;
+margin-left:80px;
+  margin-right:50px;
+}
+  .larger-image {
+    width: 400px;
+     
+    padding: 20px;
+    margin: 10px;
+  }
+  
+
+  
+  .lower-detail {
+    margin: 10px 20px 20px 30px;
+  }
+  
